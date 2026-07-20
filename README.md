@@ -328,14 +328,3 @@ This project is released under the MIT License.
 
 ---
 
-## Author
-
-Rahul Sahu
-
-Bachelor of Technology
-
-Electrical and Electronics Engineering
-
-Embedded Systems Enthusiast
-
-Interested in Power Systems, Smart Grid, Industrial IoT, Digital Transformation, and Electrical Design Engineering.
